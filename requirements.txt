@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+torch
+torch-geometric
+numpy
+pandas
+global-land-mask
+pydantic
